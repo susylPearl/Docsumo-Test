@@ -1,0 +1,1 @@
+export const LOGIN_URL = 'https://apptesting.docsumo.com/api/v1/eevee/login/';
